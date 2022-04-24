@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tim_So_Lon_Nhat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tim_So_Lon_Nhat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tim_So_Lon_Nhat-Debug-0d8aab8ab393e35b5fee.json",
+					"name" : "Tim_So_Lon_Nhat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/TinhVan/Documents/Git_hub/WorkSpace/Leaning_C/Tim_So_Lon_Nhat/cmake-build-debug",
+		"source" : "/Users/TinhVan/Documents/Git_hub/WorkSpace/Leaning_C/Tim_So_Lon_Nhat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
