@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tinh_CV_DT_Hinh_Tron",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tinh_CV_DT_Hinh_Tron::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tinh_CV_DT_Hinh_Tron-Debug-9de4d5d9338e4d570408.json",
+					"name" : "Tinh_CV_DT_Hinh_Tron",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/TinhVan/Documents/Git_hub/WorkSpace/TInh_CV_DT_Hinh_Tron/cmake-build-debug",
+		"source" : "/Users/TinhVan/Documents/Git_hub/WorkSpace/TInh_CV_DT_Hinh_Tron"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

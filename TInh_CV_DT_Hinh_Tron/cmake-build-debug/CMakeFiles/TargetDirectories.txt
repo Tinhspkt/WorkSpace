@@ -1,0 +1,3 @@
+/Users/TinhVan/Documents/Git_hub/WorkSpace/TInh_CV_DT_Hinh_Tron/cmake-build-debug/CMakeFiles/Tinh_CV_DT_Hinh_Tron.dir
+/Users/TinhVan/Documents/Git_hub/WorkSpace/TInh_CV_DT_Hinh_Tron/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/TinhVan/Documents/Git_hub/WorkSpace/TInh_CV_DT_Hinh_Tron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
